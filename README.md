@@ -17,3 +17,14 @@
 
 ## 更新日志
 每个版本的详细更改都记录在[release notes](https://github.com/renrenio/renren-fast-vue/releases)中。
+
+## 环境
+
+运行本项目node版本：14.18.2，npm版本：6.14.15
+
+## 运行
+
+```
+npm install
+npm run dev
+```
